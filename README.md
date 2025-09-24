@@ -1,4 +1,4 @@
-# Site Scanner v0.2
+# Site Scanner v1.0
 
 <span style="color:green">**🟢 Stable Release**</span>  
 *Fast console network diagnostic tool*
