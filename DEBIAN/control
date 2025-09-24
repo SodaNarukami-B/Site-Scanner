@@ -1,0 +1,11 @@
+Package: site-scanner
+Version: 0.2-1
+Section: net
+Priority: optional
+Architecture: all
+Depends: python3
+Maintainer: Kali User <kali@kali>
+Description: Fast console network scanner for site diagnostics
+ A Python-based tool for quick network diagnostics
+ including ping checks, port scanning, and HTTP
+ header analysis.

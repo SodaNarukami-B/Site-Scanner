@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /opt/site-scanner
+python3 scanner.py "$@"
