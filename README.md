@@ -21,9 +21,9 @@
 ### Method 1: Pip Installation (Recommended)
 ```bash
 # Install from source
-pip install git+https://github.com/your-username/site-scanner.git
+pip install git+https://github.com/SodaNarukami-B/Site-Scanner.git
 
 # Or clone and install locally
-git clone https://github.com/your-username/site-scanner.git
+git clone https://github.com/SodaNarukami-B/Site-Scanner.git
 cd site-scanner
 pip install .
